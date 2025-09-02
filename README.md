@@ -82,7 +82,7 @@ The following tools and technologies were utilized in this project:
 The project follows a structured directory layout to organize the various components effectively.  
 Below is an overview of the project structure:  
 
-```bash
+
 bank-loan-performance-analysis/
 │── README.md
 │── .gitignore
