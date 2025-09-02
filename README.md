@@ -4,7 +4,7 @@ _Analyzing loan performance and default risk to support data-driven credit decis
 
 ---
 
-## 📌 Table of Content
+## 📌able of Content
 
 - <a href="#executive-summary">Executive Summary</a>
 - <a href="#Business-problem">Business Problem</a>
@@ -184,6 +184,8 @@ accuracy by 3–5%.
 Data Analyst
 📧 Email: hamtah4850@gmail.com
 🔗[LinkedIn](https://www.linkedin.com/in/hamza-tahir-analyst/)
-#   B a n k _ L o a n _ A n a l y s i s _ P r o j e c t  
- #   B a n k _ L o a n _ A n a l y s i s _ P r o j e c t  
+#   B a n k _ L o a n _ A n a l y s i s _ P r o j e c t 
+ 
+ #   B a n k _ L o a n _ A n a l y s i s _ P r o j e c t 
+ 
  
