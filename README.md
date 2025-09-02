@@ -82,7 +82,7 @@ The following tools and technologies were utilized in this project:
 The project follows a structured directory layout to organize the various components effectively.  
 Below is an overview of the project structure:  
 
-
+```bash 
 bank-loan-performance-analysis/
 │── README.md
 │── .gitignore
@@ -90,7 +90,7 @@ bank-loan-performance-analysis/
 │── Bank_loan_Analysis_SQL/       # SQL queries and solutions
 │── dashboard/                    # Power BI dashboard file
 └── Bank Loan Analysis Project.pbix
-
+```
 ### Key Portfolio Insights
 
 ## Loan Status  
