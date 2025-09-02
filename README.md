@@ -103,6 +103,7 @@ The loan status distribution provides further insight into portfolio health.
 This equates to a default rate of **13.8% by count**.  
 
 ![Bank Loan Dashboard](Images/Bank%20Loan%20ss.png)
+![Bank Loan Dashboard](Images/Bank%20Loan%20ss2.png)
 
 ---
 
